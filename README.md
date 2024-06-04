@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [rimoru912@gmail.com](mailto:rimoru912@gmail.com)
 
 <a href="https://www.github.com/kato912" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kato912?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/kato912?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&no-cache" /></a>
 
 ### Skills
 
