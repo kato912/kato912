@@ -20,4 +20,4 @@ src="https://img.shields.io/github/followers/kato912?logo=github&style=for-the-b
 
 ### Badges
 
-<a href="https://github.com/kato912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kato912&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&no-cach" alt="Top Languages" /></a>
+<a href="https://github.com/kato912" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kato912&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&no-cache" alt="Top Languages" /></a>
